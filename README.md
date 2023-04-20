@@ -17,3 +17,4 @@ pkg upgrade -y
  pip install bs4 
 
  git clone https://github.com/RASHID-XD888/goodbye-ramzan
+ cd goodbye-ramzan
